@@ -60,6 +60,10 @@ A licença de uso e redistribuição do kit ainda vai ser definida pela Escola D
 | [01-objetivo-sem-rotulo/](01-objetivo-sem-rotulo/) | Objetivo sem rótulo |
 | [02-autovalores-autovetores-e-svd/](02-autovalores-autovetores-e-svd/) | Autovalores, autovetores e SVD |
 | [04-kernel-pca-t-sne-e-umap/](04-kernel-pca-t-sne-e-umap/) | Kernel PCA, t-SNE e UMAP |
+| [06-k-means-e-k-medoids/](06-k-means-e-k-medoids/) | K-means e K-medoids |
+| [07-densidade-e-hierarquia/](07-densidade-e-hierarquia/) | Densidade e hierarquia |
+| [08-metricas-internas/](08-metricas-internas/) | Métricas internas |
+| [10-estabilidade-e-acao/](10-estabilidade-e-acao/) | Estabilidade e ação |
 | [12-priorizar-suspeitas-de-fraude/](12-priorizar-suspeitas-de-fraude/) | Priorizar suspeitas de fraude |
 | [13-avaliar-com-feedback/](13-avaliar-com-feedback/) | Avaliar com feedback |
 | [14-defender-segmentacao-e-alertas/](14-defender-segmentacao-e-alertas/) | Defender segmentação e alertas |
